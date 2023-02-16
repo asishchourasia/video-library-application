@@ -1,4 +1,4 @@
-# Video-Library-Application
+# Video Library Application
 
 Name Of The Project : Video Library Application
 
@@ -10,7 +10,7 @@ Description :
    
 
 Project Url :
-   Source : https://github.com/asishchourasia/Video-Library-Application.git
+   Source : https://github.com/asishchourasia/video-library-application.git
    
 
 Name: Asish Kumar Chourasia
